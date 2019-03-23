@@ -1,4 +1,4 @@
-### This is and simple bash script to restart your miner every time your rig or gpu are not hashing.
+### This is and simple bash script to restart your miner every time your rigs or gpus are not hashing.
 
 
 * Place the files "jobs.txt" and "richeck.sh" into your "/home/ethos" folder
