@@ -1,0 +1,3 @@
+*/2 * * * * /home/ethos/rigcheck.sh >> /home/ethos/cron.log 2>&1
+
+*/6 * * * * /home/ethos/rigcheck_reboot.sh >> /home/ethos/cron.log 2>&1
