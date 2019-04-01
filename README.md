@@ -10,3 +10,8 @@
 	- crontab jobs.txt
 
 * Enjoy
+
+### Donations:
+* ETH: 0x4a6ea454cbd3f70106009a2fa404733ace8442e2
+
+* BTC: 1NeCK6Dtz8yjRR8uDBUmkA7UFCtTCVKusm
