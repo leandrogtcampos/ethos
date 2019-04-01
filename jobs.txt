@@ -1,0 +1,2 @@
+*/2 * * * * /home/ethos/miner_restarter.sh >> /home/ethos/cron.log 2>&1
+*/6 * * * * /home/ethos/rig_restarter.sh >> /home/ethos/cron.log 2>&1
