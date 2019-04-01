@@ -14,7 +14,7 @@ while [ ! -z "${hash_array[i]%\.*}" ]; do
     echo "Restarting miner..."    
     /opt/ethos/bin/minestop
     
-	i=100
+    i=100
   fi
 
   i=$(( $i + 1 ))
